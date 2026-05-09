@@ -13,7 +13,7 @@ https://deepwiki.com/ViinayKumaarMamidi/Databricks_Travel_Booking_SCD2_Project
 
 ## Overview
 
-This project demonstrates a comprehensive **data engineering pipeline** for travel booking data processing, implementing **SCD2 (Slowly Changing Dimension Type 2)** patterns with **Delta Lake** and **PySpark**. The pipeline processes daily booking transactions and customer master data with data quality validation, dimension management, and fact table aggregation.
+This project demonstrates a comprehensive **data engineering pipeline** for travel booking data processing, implementing **SCD2 (Slowly Changing Dimension Type 2)** patterns with **Delta Lake** and **PySpark**. The pipeline processes daily booking transactions and customer master data with data quality validation using pydeequ, dimension management, and fact table aggregation.
 
 ## Architecture
 
